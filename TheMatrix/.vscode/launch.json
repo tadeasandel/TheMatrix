@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "TheMatrix (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrix Win64 Debug Build",
+			"program": "C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\Binaries\\Win64\\TheMatrix-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrix (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrix Win64 DebugGame Build",
+			"program": "C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\Binaries\\Win64\\TheMatrix-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrix (Development)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrix Win64 Development Build",
+			"program": "C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\Binaries\\Win64\\TheMatrix.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrix (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrix Win64 Shipping Build",
+			"program": "C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\Binaries\\Win64\\TheMatrix-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrix (Test)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrix Win64 Test Build",
+			"program": "C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\Binaries\\Win64\\TheMatrix-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrixEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrixEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\TheMatrix.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrixEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrixEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\TheMatrix.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TheMatrixEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "TheMatrixEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\TheMatrix.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"C:\\Users\\Tadaaaa\\Desktop\\Unreal Projects\\TheMatrix\\TheMatrix\\TheMatrix.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22"
+		}
+	]
+}

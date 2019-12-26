@@ -1,0 +1,1623 @@
+﻿Log file open, 12/25/19 11:56:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheMatrix
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265278
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:569][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.25-10.56.07:569][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.25-10.56.07:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:570][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:572][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.25-10.56.07:572][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.25-10.56.07:573][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.25-10.56.07:573][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.25-10.56.07:573][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.25-10.56.07:585][  0]LogHAL: Display: Platform has ~ 32 GB [34321829888 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.25-10.56.07:585][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.25-10.56.07:585][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.25-10.56.07:585][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Scalability.ini]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.25-10.56.07:586][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.25-10.56.07:587][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.25-10.56.07:587][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.25-10.56.07:587][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Config/Windows/Engine.ini]
+[2019.12.25-10.56.07:587][  0]LogInit: Computer: DESKTOP-QR5TMVD
+[2019.12.25-10.56.07:587][  0]LogInit: User: Tadaaaa
+[2019.12.25-10.56.07:587][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.25-10.56.07:587][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.25-10.56.07:587][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.12.25-10.56.07:587][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.25-10.56.07:587][  0]LogMemory: Process Physical Memory: 97.19 MB used, 97.20 MB peak
+[2019.12.25-10.56.07:587][  0]LogMemory: Process Virtual Memory: 92.65 MB used, 92.65 MB peak
+[2019.12.25-10.56.07:587][  0]LogMemory: Physical Memory: 12236.14 MB used,  20495.70 MB free, 32731.85 MB total
+[2019.12.25-10.56.07:587][  0]LogMemory: Virtual Memory: 4645.90 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.12.25-10.56.07:601][  0]LogInit: Using OS detected language (cs-CZ).
+[2019.12.25-10.56.07:601][  0]LogInit: Using OS detected locale (cs-CZ).
+[2019.12.25-10.56.07:602][  0]LogTextLocalizationManager: No localization for 'cs-CZ' exists, so 'en' will be used for the language.
+[2019.12.25-10.56.07:765][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.25-10.56.07:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.25-10.56.07:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.25-10.56.07:942][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.25-10.56.07:942][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.25-10.56.07:997][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.12.25-10.56.07:997][  0]LogD3D11RHI:       6052/0/16365 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.25-10.56.07:999][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.25-10.56.07:999][  0]LogD3D11RHI:       0/0/16365 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.25-10.56.07:999][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.25-10.56.08:005][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.25-10.56.08:005][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.25-10.56.08:005][  0]LogWindows: EnumDisplayDevices:
+[2019.12.25-10.56.08:005][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.12.25-10.56.08:006][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.25-10.56.08:006][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.25-10.56.08:006][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.12.25-10.56.08:006][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.25-10.56.08:006][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.12.25-10.56.08:006][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.25-10.56.08:006][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.25-10.56.08:006][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.25-10.56.08:039][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.25-10.56.08:043][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.25-10.56.08:043][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.25-10.56.08:043][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.25-10.56.08:050][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.25-10.56.08:328][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.25-10.56.08:340][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.25-10.56.08:352][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.25-10.56.08:364][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.25-10.56.08:376][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.25-10.56.08:387][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.25-10.56.08:399][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.25-10.56.08:411][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.25-10.56.08:417][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.25-10.56.08:487][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.25-10.56.08:489][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.25-10.56.08:534][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.25-10.56.08:534][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.25-10.56.08:555][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.25-10.56.08:555][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.25-10.56.08:565][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.25-10.56.08:576][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.25-10.56.08:586][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.25-10.56.08:596][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.25-10.56.08:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.25-10.56.08:633][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.25-10.56.08:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.25-10.56.08:639][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.25-10.56.08:679][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Intermediate/Shaders/WorkingDirectory/6068/).
+[2019.12.25-10.56.08:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tadaaaa/AppData/Local/Temp/UnrealShaderWorkingDir/54F753354820EB7C6C08668098CD2F2B/'.
+[2019.12.25-10.56.08:681][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.25-10.56.08:681][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.25-10.56.08:681][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.25-10.56.09:141][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.25-10.56.09:188][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Tadaaaa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.25-10.56.09:188][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tadaaaa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.25-10.56.09:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.25-10.56.09:188][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.25-10.56.09:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.25-10.56.09:188][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.25-10.56.09:200][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.25-10.56.09:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.25-10.56.09:200][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.25-10.56.09:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tadaaaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.25-10.56.09:212][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.25-10.56.09:212][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.25-10.56.09:232][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.25-10.56.09:233][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.25-10.56.09:233][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.25-10.56.09:307][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2019.12.25-10.56.09:630][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.25-10.56.09:747][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.25-10.56.09:747][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.25-10.56.09:747][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.25-10.56.09:747][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.25-10.56.09:747][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.25-10.56.09:760][  0]LogNetVersion: TheMatrix 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 849725897)
+[2019.12.25-10.56.10:121][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036543 seconds
+[2019.12.25-10.56.10:128][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.25-10.56.10:128][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.25-10.56.10:128][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.25-10.56.10:903][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.25-10.56.10:924][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.25-10.56.11:024][  0]SourceControl: Source control is disabled
+[2019.12.25-10.56.11:024][  0]SourceControl: Source control is disabled
+[2019.12.25-10.56.11:025][  0]SourceControl: Source control is disabled
+[2019.12.25-10.56.11:026][  0]SourceControl: Source control is disabled
+[2019.12.25-10.56.11:097][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.25-10.56.11:162][  0]LogOcInput: OculusInput pre-init called
+[2019.12.25-10.56.11:723][  0]LogEngine: Initializing Engine...
+[2019.12.25-10.56.11:724][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.25-10.56.11:725][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.25-10.56.11:899][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.25-10.56.11:912][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.25-10.56.11:923][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-10.56.11:937][  0]LogInit: FAudioDevice initialized.
+[2019.12.25-10.56.11:937][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.25-10.56.12:009][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Tadaaaa/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.25-10.56.12:017][  0]LogInit: Texture streaming: Enabled
+[2019.12.25-10.56.12:032][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.25-10.56.12:052][  0]LogInit: Transaction tracking system initialized
+[2019.12.25-10.56.12:072][  0]BlueprintLog: New page: Editor Load
+[2019.12.25-10.56.12:179][  0]LocalizationService: Localization service is disabled
+[2019.12.25-10.56.12:456][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/' took 0.01s
+[2019.12.25-10.56.12:456][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.25-10.56.12:456][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.25-10.56.12:619][  0]SourceControl: Source control is disabled
+[2019.12.25-10.56.12:619][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.25-10.56.12:619][  0]LightingResults: New page: Lighting Build
+[2019.12.25-10.56.12:621][  0]MapCheck: New page: Map Check
+[2019.12.25-10.56.12:621][  0]LightingResults: New page: Lighting Build
+[2019.12.25-10.56.12:643][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.12.25-10.56.12:711][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.25-10.56.12:716][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.25-10.56.12:741][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.12.25-10.56.12:741][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.25-10.56.12:741][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2019.12.25-10.56.12:741][  0]LogFileHelpers: Loading map 'Template_Default' took 0.122
+[2019.12.25-10.56.12:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-10.56.12:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-10.56.12:836][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-10.56.12:842][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-10.56.12:847][  0]LogCollectionManager: Loaded 0 collections in 0.001311 seconds
+[2019.12.25-10.56.12:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Collections/' took 0.01s
+[2019.12.25-10.56.12:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/Developers/Tadaaaa/Collections/' took 0.01s
+[2019.12.25-10.56.12:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/Collections/' took 0.01s
+[2019.12.25-10.56.12:886][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.25-10.56.12:894][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2732 classes and 659 folders.
+[2019.12.25-10.56.12:900][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.25-10.56.12:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.25-10.56.12:932][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.25-10.56.12:937][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.25-10.56.12:953][  0]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.25-10.56.12:955][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.25-10.56.12:962][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.25-10.56.13:025][  0]LogRenderer: Reallocating scene render targets to support 1208x624 Format 10 NumSamples 1 (Frame:1).
+[2019.12.25-10.56.13:120][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.25-10.56.13:120][  0]LogLoad: (Engine Initialization) Total time: 7.03 seconds
+[2019.12.25-10.56.13:120][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.25-10.56.13:147][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.25-10.56.13:628][ 52]LogAssetRegistry: Asset discovery search completed in 4.3430 seconds
+[2019.12.25-10.56.13:630][ 52]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.25-10.56.13:630][ 52]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.12.25-10.56.30:241][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-10.56.36:142][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-10.56.36:270][995]LogActorFactory: Actor Factory created Cube
+[2019.12.25-10.56.36:459][ 16]LogActorFactory: Actor Factory created Cube
+[2019.12.25-10.56.44:319][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-10.56.44:500][969]LogActorFactory: Actor Factory created Sphere
+[2019.12.25-10.56.45:049][ 34]LogActorFactory: Actor Factory created Sphere
+[2019.12.25-10.57.12:242][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.25-10.57.13:085][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-10.57.15:571][148]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.25-10.57.15:572][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-10.57.15:604][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-10.57.15:628][148]LogSlate: Took 0.004067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.25-10.57.36:206][148]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" -game -rocket -progress
+[2019.12.25-10.57.36:510][148]Discovering modules, targets and source code for project...
+[2019.12.25-10.57.38:426][148]Binding IntelliSense data...
+[2019.12.25-10.57.39:842][148]Binding IntelliSense data... 100%
+[2019.12.25-10.57.39:842][148]Writing project files...
+[2019.12.25-10.57.39:946][148]Writing project files... 100%
+[2019.12.25-10.57.40:053][148]LogHotReload: Recompiling module TheMatrix...
+[2019.12.25-10.57.40:057][148]Candidate modules for hot reload:
+[2019.12.25-10.57.40:057][148]  TheMatrix
+[2019.12.25-10.57.40:057][148]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,217 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-10.58.14:640][148]Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+Creating makefile for TheMatrixEditor (no existing makefile)
+Parsing headers for TheMatrixEditor
+  Running UnrealHeaderTool "C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\TheMatrix.uproject" "C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\TheMatrixEditor\Development\TheMatrixEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for TheMatrixEditor in 5,6635239 seconds
+Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 8 processes...
+  [1/9] Default.rc2
+  [2/9] SharedPCH.Engine.cpp
+  [3/9] TheMatrix.cpp
+  [4/9] WorldPosition.cpp
+  [5/9] TheMatrix.init.gen.cpp
+  [6/9] WorldPosition.gen.cpp
+  [7/9] UE4Editor-TheMatrix-0217.lib
+     Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.exp.
+  [8/9] UE4Editor-TheMatrix-0217.dll
+     Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.suppressed.exp.
+  [9/9] TheMatrixEditor.target
+Total time in Parallel executor: 21,75 seconds
+Total execution time: 34,51 seconds
+
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: New page: Compilation - 25. 12. 2019 12:58:14
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Creating makefile for TheMatrixEditor (no existing makefile)
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Parsing headers for TheMatrixEditor
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\TheMatrix.uproject" "C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\TheMatrixEditor\Development\TheMatrixEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Reflection code generated for TheMatrixEditor in 5,6635239 seconds
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Building 9 actions with 8 processes...
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [1/9] Default.rc2
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [2/9] SharedPCH.Engine.cpp
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [3/9] TheMatrix.cpp
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [4/9] WorldPosition.cpp
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [5/9] TheMatrix.init.gen.cpp
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [6/9] WorldPosition.gen.cpp
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [7/9] UE4Editor-TheMatrix-0217.lib
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.exp.
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [8/9] UE4Editor-TheMatrix-0217.dll
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0217.suppressed.exp.
+[2019.12.25-10.58.14:640][148]CompilerResultsLog:   [9/9] TheMatrixEditor.target
+[2019.12.25-10.58.14:640][148]CompilerResultsLog: Total time in Parallel executor: 21,75 seconds
+[2019.12.25-10.58.14:641][148]CompilerResultsLog: Total execution time: 34,51 seconds
+[2019.12.25-10.58.14:641][148]LogMainFrame: MainFrame: Module compiling took 34.588 seconds
+[2019.12.25-10.58.14:641][148]Reloading module TheMatrix after successful compile.
+[2019.12.25-10.58.14:668][148]LogClass: Could not find existing package /Script/TheMatrix for HotReload of class WorldPosition, assuming a new package.
+[2019.12.25-10.58.14:670][148]LogContentBrowser: Native class hierarchy updated for 'TheMatrix' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.25-10.58.14:689][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.25-10.58.14:699][148]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-10.58.14:715][148]LogSlate: Window 'Add C++ Component' being destroyed
+[2019.12.25-10.58.14:748][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-10.59.02:870][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: 00000249A4A41440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: 00000249A4A41440: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: 00000249A4A41440: libcurl info message cache 1 (Closing connection 0)
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: 00000249A4A41440: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: 00000249A4A41440: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: 00000249A4A41440: libcurl info message cache 4 (Closing connection 1)
+[2019.12.25-11.00.24:406][828]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4A930A9-483E-8369-FE61-2399611961EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=f472004f40fac88184d84a92366b546b%7C8dcaf3935bb042848f2d0b9c43f0b476%7Cc1cad8ca-24b4-4669-8e88-225e95b0389b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.25-11.05.02:059][779]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.25-11.05.02:290][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.05.03:382][908]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.25-11.05.03:920][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.05.04:024][983]Candidate modules for hot reload:
+[2019.12.25-11.05.04:024][983]  TheMatrix
+[2019.12.25-11.05.04:024][983]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,2770 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.05.04:026][983]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:05:05
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C3861: Text: identifik?tor se nenasel
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C2955: TIsArrayOrRefOfType: Pouzit? tr?da sablona vyzaduje seznam argumentu sablona.
+[2019.12.25-11.05.05:939][ 77]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h(13): note: viz deklarace: TIsArrayOrRefOfType
+[2019.12.25-11.05.05:939][ 77]LogMainFrame: MainFrame: Module compiling took 1.918 seconds
+[2019.12.25-11.05.05:939][ 77]Warning: HotReload failed, recompile failed
+[2019.12.25-11.05.12:880][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.05.31:370][102]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.05.31:373][102]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.05.32:490][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.05.32:601][249]Candidate modules for hot reload:
+[2019.12.25-11.05.32:601][249]  TheMatrix
+[2019.12.25-11.05.32:601][249]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,1607 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.05.32:603][249]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.05.35:185][549]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:05:35
+[2019.12.25-11.05.35:185][549]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.05.35:185][549]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.05.35:185][549]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.05.35:185][549]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.05.35:185][549]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-1607.lib
+[2019.12.25-11.05.35:185][549]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-1607.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-1607.exp.
+[2019.12.25-11.05.35:185][549]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-1607.dll
+[2019.12.25-11.05.35:185][549]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-1607.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-1607.suppressed.exp.
+[2019.12.25-11.05.35:185][549]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.05.35:185][549]CompilerResultsLog: Total time in Parallel executor: 1,59 seconds
+[2019.12.25-11.05.35:185][549]CompilerResultsLog: Total execution time: 2,50 seconds
+[2019.12.25-11.05.35:185][549]LogMainFrame: MainFrame: Module compiling took 2.586 seconds
+[2019.12.25-11.05.35:204][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.25-11.05.35:215][549]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.05.35:215][549]Display: HotReload took  2.6s.
+[2019.12.25-11.05.44:270][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.05.48:323][393]LogSlate: Took 0.006604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.25-11.06.26:056][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.06.26:185][ 58]Candidate modules for hot reload:
+[2019.12.25-11.06.26:185][ 58]  TheMatrix
+[2019.12.25-11.06.26:185][ 58]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,487 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.06.26:187][ 58]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.06.27:791][239]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:06:27
+[2019.12.25-11.06.27:791][239]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.06.27:791][239]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.06.27:792][239]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.06.27:792][239]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.06.27:792][239]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C3861: Text: identifik?tor se nenasel
+[2019.12.25-11.06.27:792][239]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C2955: TIsArrayOrRefOfType: Pouzit? tr?da sablona vyzaduje seznam argumentu sablona.
+[2019.12.25-11.06.27:792][239]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h(13): note: viz deklarace: TIsArrayOrRefOfType
+[2019.12.25-11.06.27:793][239]LogMainFrame: MainFrame: Module compiling took 1.611 seconds
+[2019.12.25-11.06.27:793][239]Warning: HotReload failed, recompile failed
+[2019.12.25-11.07.18:346][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.12.25-11.07.18:377][445]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Untitled_1_Auto1D5A6CE594A3FA6268820CDA2933D305B.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.12.25-11.07.18:384][445]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.059
+[2019.12.25-11.07.18:384][445]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2019.12.25-11.07.36:242][703]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.07.36:246][703]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.07.37:087][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.07.37:165][813]Candidate modules for hot reload:
+[2019.12.25-11.07.37:165][813]  TheMatrix
+[2019.12.25-11.07.37:165][813]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,3260 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.07.37:167][813]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.07.39:639][101]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:07:39
+[2019.12.25-11.07.39:639][101]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.07.39:639][101]CompilerResultsLog: Creating makefile for TheMatrixEditor (ini files are newer than makefile)
+[2019.12.25-11.07.39:639][101]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.07.39:640][101]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.07.39:640][101]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.07.39:640][101]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C3861: Text: identifik?tor se nenasel
+[2019.12.25-11.07.39:640][101]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C2955: TIsArrayOrRefOfType: Pouzit? tr?da sablona vyzaduje seznam argumentu sablona.
+[2019.12.25-11.07.39:640][101]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h(13): note: viz deklarace: TIsArrayOrRefOfType
+[2019.12.25-11.07.39:640][101]LogMainFrame: MainFrame: Module compiling took 2.477 seconds
+[2019.12.25-11.07.39:641][101]Warning: HotReload failed, recompile failed
+[2019.12.25-11.08.03:277][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.08.05:328][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.08.05:332][673]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" -game -rocket -progress
+[2019.12.25-11.08.05:636][673]Discovering modules, targets and source code for project...
+[2019.12.25-11.08.07:045][673]Binding IntelliSense data...
+[2019.12.25-11.08.08:359][673]Binding IntelliSense data... 100%
+[2019.12.25-11.08.08:359][673]Writing project files...
+[2019.12.25-11.08.08:359][673]Writing project files... 100%
+[2019.12.25-11.09.53:552][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.09.53:648][420]Candidate modules for hot reload:
+[2019.12.25-11.09.53:648][420]  TheMatrix
+[2019.12.25-11.09.53:648][420]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,3565 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.09.53:650][420]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.09.56:480][588]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:09:56
+[2019.12.25-11.09.56:480][588]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.09.56:481][588]CompilerResultsLog: Creating makefile for TheMatrixEditor (no existing makefile)
+[2019.12.25-11.09.56:481][588]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.09.56:481][588]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.09.56:481][588]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.09.56:481][588]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C3861: Text: identifik?tor se nenasel
+[2019.12.25-11.09.56:481][588]CompilerResultsLog:    C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Source\TheMatrix\WorldPosition.cpp(20) : error C2955: TIsArrayOrRefOfType: Pouzit? tr?da sablona vyzaduje seznam argumentu sablona.
+[2019.12.25-11.09.56:482][588]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h(13): note: viz deklarace: TIsArrayOrRefOfType
+[2019.12.25-11.09.56:482][588]LogMainFrame: MainFrame: Module compiling took 2.838 seconds
+[2019.12.25-11.09.56:482][588]Warning: HotReload failed, recompile failed
+[2019.12.25-11.09.57:758][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.13.31:812][262]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.13.31:815][262]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.13.32:344][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.13.32:430][335]Candidate modules for hot reload:
+[2019.12.25-11.13.32:430][335]  TheMatrix
+[2019.12.25-11.13.32:430][335]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,7037 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.13.32:432][335]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.13.35:370][440]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:13:35
+[2019.12.25-11.13.35:370][440]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.13.35:370][440]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.13.35:370][440]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.13.35:370][440]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.13.35:370][440]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-7037.lib
+[2019.12.25-11.13.35:370][440]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7037.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7037.exp.
+[2019.12.25-11.13.35:371][440]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-7037.dll
+[2019.12.25-11.13.35:371][440]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7037.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7037.suppressed.exp.
+[2019.12.25-11.13.35:371][440]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.13.35:371][440]CompilerResultsLog: Total time in Parallel executor: 1,63 seconds
+[2019.12.25-11.13.35:371][440]CompilerResultsLog: Total execution time: 2,63 seconds
+[2019.12.25-11.13.35:371][440]LogMainFrame: MainFrame: Module compiling took 2.944 seconds
+[2019.12.25-11.13.35:391][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.12.25-11.13.35:402][440]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.13.35:402][440]Display: HotReload took  3.0s.
+[2019.12.25-11.13.40:886][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.13.41:010][726]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.13.41:016][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.13.41:017][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.13.41:017][726]PIE: New page: PIE session: Untitled_1 (25. 12. 2019 13:13:41)
+[2019.12.25-11.13.41:030][726]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.25-11.13.41:033][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002479s)
+[2019.12.25-11.13.41:033][726]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.25-11.13.41:034][726]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2019.12.25-11.13.41:034][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004237s)
+[2019.12.25-11.13.41:054][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.12.25-11.13.41:066][726]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.13.41:077][726]LogInit: FAudioDevice initialized.
+[2019.12.25-11.13.41:116][726]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.13.41:118][726]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.25-12.13.41
+[2019.12.25-11.13.41:118][726]LogWorld: Bringing up level for play took: 0.000667
+[2019.12.25-11.13.41:155][726]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.25-11.13.41:157][726]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0,391
+[2019.12.25-11.13.41:157][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.13.58:309][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.13.58:410][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.13.58:411][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.13.58:442][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.13.58:443][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.13.58:465][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.13.58:468][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.25-11.13.58:511][637]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.25-11.14.14:404][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.14.14:503][949]MapCheck: New page: Map Check
+[2019.12.25-11.14.14:511][949]Cmd: MAP REBUILD ALLVISIBLE
+[2019.12.25-11.14.14:511][949]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.12.25-11.14.14:538][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.25-11.14.14:549][949]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.25-11.14.14:559][949]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.25-11.14.14:566][949]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.25-11.14.15:249][949]TextureStreamingBuild: Display: Compiling optional shaders took 0.707 seconds.
+[2019.12.25-11.14.15:267][949]LogLevel: Display: Export Material TexCoord Scales took 0.018 seconds.
+[2019.12.25-11.14.15:274][949]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2019.12.25-11.14.15:293][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.12.25-11.14.15:295][949]LightingResults: New page: Lighting Build - 25. 12. 2019 13:14:15
+[2019.12.25-11.14.15:341][949]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.12.25-11.14.15:391][949]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.12.25-11.14.15:406][949]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.12.25-11.14.15:924][949]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.12.25-11.14.15:924][949]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6068
+[2019.12.25-11.14.21:640][949]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.12.25-11.14.21:640][949]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.12.25-11.14.21:640][949]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.12.25-11.14.21:640][949]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.12.25-11.14.21:641][949]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.12.25-11.14.21:641][949]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.12.25-11.14.21:823][949]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.12.25-11.14.21:823][949]MapCheck: New page: Untitled_1 - 25. 12. 2019 13:14:21
+[2019.12.25-11.14.21:823][949]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.12.25-11.14.21:824][949]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1,325ms to complete.
+[2019.12.25-11.14.21:847][949]LogEditorBuildUtils: Build time 0:07
+[2019.12.25-11.14.21:851][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.14.21:865][949]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.12.25-11.14.21:876][949]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.12.25-11.14.21:922][950]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.12.25-11.14.21:931][950]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.12.25-11.14.21:975][951]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.12.25-11.14.21:985][951]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.12.25-11.14.22:014][952]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.12.25-11.14.22:024][952]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.12.25-11.14.23:931][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.25-11.14.26:402][ 93]Job is a success!
+[2019.12.25-11.14.26:441][ 94]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2019.12.25-11.14.26:441][ 94]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.12.25-11.14.26:441][ 94]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2019.12.25-11.14.26:441][ 94]LogVolumetricLightmapImport:      Bricks at Level
+[2019.12.25-11.14.26:441][ 94]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2019.12.25-11.14.26:441][ 94]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2019.12.25-11.14.26:442][ 94]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2019.12.25-11.14.26:481][ 94]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.12.25-11.14.26:481][ 94]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.12.25-11.14.26:481][ 94]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.12.25-11.14.26:481][ 94]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.12.25-11.14.26:482][ 94]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.12.25-11.14.26:482][ 94]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2019.12.25-11.14.26:504][ 94]Lightmass on DESKTOP-QR5TMVD: 1.00 sec total, 120 ms importing, 25 ms setup, 391 ms photons, 382 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 2.50 sec total, 167 ms processing.
+[2019.12.25-11.14.26:507][ 94]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 4 meshes in 2 LightmapResourceClusters (2.0 Meshes per cluster).
+[2019.12.25-11.14.26:527][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.12.25-11.14.26:532][ 94]LogStaticLightingSystem: Illumination: 11.2 sec (22 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2019.12.25-11.14.26:532][ 94]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.12.25-11.14.26:532][ 94]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.12.25-11.14.26:645][ 94]DumpUnbuiltLightIteractions
+[2019.12.25-11.14.26:645][ 94]Lights with unbuilt interactions: 0
+[2019.12.25-11.14.26:645][ 94]
+[2019.12.25-11.14.26:645][ 94]Primitives with unbuilt interactions: 0
+[2019.12.25-11.14.26:649][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.14.26:702][ 95]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.12.25-11.14.26:702][ 95]MapCheck: New page: Untitled_1 - 25. 12. 2019 13:14:26
+[2019.12.25-11.14.26:702][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,475ms to complete.
+[2019.12.25-11.14.29:507][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.14.29:613][443]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.14.29:617][443]LogSlate: Window 'Message Log' being destroyed
+[2019.12.25-11.14.47:398][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.14.49:406][349]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.25-11.14.49:950][414]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.25-11.14.49:975][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.14.50:816][513]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.25-11.14.50:832][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.14.52:809][749]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2019.12.25-11.14.52:839][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.14.54:394][934]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.12.25-11.14.55:176][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.14.55:262][ 36]Candidate modules for hot reload:
+[2019.12.25-11.14.55:262][ 36]  TheMatrix
+[2019.12.25-11.14.55:262][ 36]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,2001 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.14.55:264][ 36]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.14.58:899][463]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:14:58
+[2019.12.25-11.14.58:899][463]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.14.58:899][463]CompilerResultsLog: Creating makefile for TheMatrixEditor (ini files are newer than makefile)
+[2019.12.25-11.14.58:899][463]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.14.58:900][463]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.14.58:900][463]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.14.58:900][463]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-2001.lib
+[2019.12.25-11.14.58:900][463]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-2001.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-2001.exp.
+[2019.12.25-11.14.58:900][463]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-2001.dll
+[2019.12.25-11.14.58:900][463]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-2001.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-2001.suppressed.exp.
+[2019.12.25-11.14.58:901][463]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.14.58:901][463]CompilerResultsLog: Total time in Parallel executor: 1,62 seconds
+[2019.12.25-11.14.58:901][463]CompilerResultsLog: Total execution time: 3,55 seconds
+[2019.12.25-11.14.58:901][463]LogMainFrame: MainFrame: Module compiling took 3.642 seconds
+[2019.12.25-11.14.58:920][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.25-11.14.58:931][463]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.14.58:931][463]Display: HotReload took  3.7s.
+[2019.12.25-11.14.59:899][579]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.14.59:911][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.14.59:912][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.14.59:912][579]PIE: New page: PIE session: Untitled_1 (25. 12. 2019 13:14:59)
+[2019.12.25-11.14.59:912][579]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.25-11.14.59:914][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002024s)
+[2019.12.25-11.14.59:915][579]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.25-11.14.59:915][579]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2019.12.25-11.14.59:915][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003136s)
+[2019.12.25-11.14.59:934][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.25-11.14.59:942][579]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.14.59:952][579]LogInit: FAudioDevice initialized.
+[2019.12.25-11.14.59:981][579]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.14.59:982][579]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.25-12.14.59
+[2019.12.25-11.14.59:982][579]LogWorld: Bringing up level for play took: 0.000568
+[2019.12.25-11.14.59:995][579]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,447
+[2019.12.25-11.14.59:995][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.15.15:378][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.15.32:159][935]Cmd: r.AOClearHistory
+[2019.12.25-11.15.32:159][935]r.AOClearHistory = "0"      LastSetBy: Constructor
+[2019.12.25-11.16.00:058][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.00:059][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.16.00:090][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.16.00:090][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.00:113][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.16.00:115][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.25-11.16.00:162][905]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.25-11.16.01:631][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.16.01:715][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.16.01:719][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.01:720][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.16.01:720][ 91]PIE: New page: PIE session: Untitled_1 (25. 12. 2019 13:16:01)
+[2019.12.25-11.16.01:720][ 91]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.25-11.16.01:722][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002224s)
+[2019.12.25-11.16.01:723][ 91]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.25-11.16.01:723][ 91]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.12.25-11.16.01:723][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003438s)
+[2019.12.25-11.16.01:742][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.25-11.16.01:750][ 91]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.16.01:759][ 91]LogInit: FAudioDevice initialized.
+[2019.12.25-11.16.01:787][ 91]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.16.01:788][ 91]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.25-12.16.01
+[2019.12.25-11.16.01:788][ 91]LogWorld: Bringing up level for play took: 0.000647
+[2019.12.25-11.16.01:801][ 91]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,252
+[2019.12.25-11.16.01:801][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.04:403][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.04:403][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.16.04:434][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.16.04:435][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.04:456][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.16.04:458][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.25-11.16.04:508][407]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.25-11.16.06:280][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.25-11.16.07:954][783]LogSlate: Took 0.008747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.25-11.16.09:240][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.16.10:308][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.12.25-11.16.11:403][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.16.17:776][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.16.21:835][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.25-11.16.24:109][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.12.25-11.16.25:349][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.25-11.16.27:234][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.16.27:410][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.16.27:413][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.27:413][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.16.27:414][ 96]PIE: New page: PIE session: Untitled_1 (25. 12. 2019 13:16:27)
+[2019.12.25-11.16.27:414][ 96]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.25-11.16.27:416][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2019.12.25-11.16.27:416][ 96]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.25-11.16.27:416][ 96]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2019.12.25-11.16.27:416][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003385s)
+[2019.12.25-11.16.27:435][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.25-11.16.27:443][ 96]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.16.27:452][ 96]LogInit: FAudioDevice initialized.
+[2019.12.25-11.16.27:481][ 96]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.16.27:482][ 96]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.25-12.16.27
+[2019.12.25-11.16.27:482][ 96]LogWorld: Bringing up level for play took: 0.000580
+[2019.12.25-11.16.27:495][ 96]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0,053
+[2019.12.25-11.16.27:495][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.37:198][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.16.40:799][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.16.42:333][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.42:333][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.16.42:360][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.16.42:361][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.16.42:382][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.16.42:385][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.25-11.16.42:440][879]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.25-11.16.56:138][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.16.56:248][209]Candidate modules for hot reload:
+[2019.12.25-11.16.56:249][209]  TheMatrix
+[2019.12.25-11.16.56:249][209]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,3238 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.16.56:250][209]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.17.00:021][648]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:17:00
+[2019.12.25-11.17.00:021][648]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.17.00:021][648]CompilerResultsLog: Creating makefile for TheMatrixEditor (ini files are newer than makefile)
+[2019.12.25-11.17.00:021][648]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.17.00:022][648]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.17.00:022][648]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.17.00:022][648]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-3238.lib
+[2019.12.25-11.17.00:022][648]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-3238.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-3238.exp.
+[2019.12.25-11.17.00:023][648]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-3238.dll
+[2019.12.25-11.17.00:023][648]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-3238.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-3238.suppressed.exp.
+[2019.12.25-11.17.00:023][648]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.17.00:023][648]CompilerResultsLog: Total time in Parallel executor: 1,68 seconds
+[2019.12.25-11.17.00:023][648]CompilerResultsLog: Total execution time: 3,69 seconds
+[2019.12.25-11.17.00:024][648]LogMainFrame: MainFrame: Module compiling took 3.777 seconds
+[2019.12.25-11.17.00:043][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.12.25-11.17.00:054][648]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.17.00:055][648]Display: HotReload took  3.8s.
+[2019.12.25-11.17.01:188][784]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.17.01:194][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.17.01:194][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.17.01:195][784]PIE: New page: PIE session: Untitled_1 (25. 12. 2019 13:17:01)
+[2019.12.25-11.17.01:195][784]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.25-11.17.01:197][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002601s)
+[2019.12.25-11.17.01:198][784]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.25-11.17.01:198][784]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2019.12.25-11.17.01:199][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003850s)
+[2019.12.25-11.17.01:217][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.25-11.17.01:226][784]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.17.01:235][784]LogInit: FAudioDevice initialized.
+[2019.12.25-11.17.01:267][784]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.17.01:268][784]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.12.25-12.17.01
+[2019.12.25-11.17.01:268][784]LogWorld: Bringing up level for play took: 0.000594
+[2019.12.25-11.17.01:281][784]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0,267
+[2019.12.25-11.17.01:281][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.17.04:789][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.17.04:790][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.17.04:821][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.17.04:822][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.25-11.17.04:845][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.17.04:848][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.25-11.17.04:890][206]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.25-11.17.06:007][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.17.27:590][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.18.01:422][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.18.03:035][696]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.25-11.18.03:712][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.18.06:837][789]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.25-11.18.09:224][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.18.09:319][ 79]Candidate modules for hot reload:
+[2019.12.25-11.18.09:319][ 79]  TheMatrix
+[2019.12.25-11.18.09:320][ 79]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,457 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.18.09:321][ 79]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.18.13:065][512]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:18:13
+[2019.12.25-11.18.13:065][512]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.18.13:066][512]CompilerResultsLog: Creating makefile for TheMatrixEditor (ini files are newer than makefile)
+[2019.12.25-11.18.13:066][512]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.18.13:066][512]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.18.13:067][512]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.18.13:067][512]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-0457.lib
+[2019.12.25-11.18.13:067][512]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0457.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0457.exp.
+[2019.12.25-11.18.13:068][512]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-0457.dll
+[2019.12.25-11.18.13:068][512]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0457.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-0457.suppressed.exp.
+[2019.12.25-11.18.13:068][512]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.18.13:068][512]CompilerResultsLog: Total time in Parallel executor: 1,76 seconds
+[2019.12.25-11.18.13:068][512]CompilerResultsLog: Total execution time: 3,67 seconds
+[2019.12.25-11.18.13:068][512]LogMainFrame: MainFrame: Module compiling took 3.751 seconds
+[2019.12.25-11.18.13:087][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.12.25-11.18.13:106][512]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.18.13:106][512]Display: HotReload took  3.8s.
+[2019.12.25-11.18.13:928][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.18.19:009][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.18.20:880][197]LogSlate: Window 'Save Level As' being destroyed
+[2019.12.25-11.18.20:887][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.18.20:966][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.12.25-11.18.20:968][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.25-11.18.20:993][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.25-11.18.21:071][197]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/NewMapF6206B194F6310A6BFE28CAECDA14B8F.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap.umap'
+[2019.12.25-11.18.21:089][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.25-11.18.21:104][197]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/NewMap_BuiltData0AC9C74D418A565C6E3D2D9E628E2423.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap_BuiltData.uasset'
+[2019.12.25-11.18.21:111][197]LogFileHelpers: Saving map 'NewMap' took 0.227
+[2019.12.25-11.18.22:040][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.18.22:045][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.25-11.18.22:068][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.25-11.18.22:155][301]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/NewMap5867032C47DD66846D2E56B638B8E1D4.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap.umap'
+[2019.12.25-11.18.22:165][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.25-11.18.22:186][301]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/NewMap_BuiltData98271D9E4B92572CB1899D992C9DC689.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap_BuiltData.uasset'
+[2019.12.25-11.18.23:274][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.18.23:397][441]Candidate modules for hot reload:
+[2019.12.25-11.18.23:397][441]  TheMatrix
+[2019.12.25-11.18.23:397][441]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,6372 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.18.23:400][441]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.18.27:054][857]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:18:27
+[2019.12.25-11.18.27:054][857]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.18.27:055][857]CompilerResultsLog: Creating makefile for TheMatrixEditor (ini files are newer than makefile)
+[2019.12.25-11.18.27:055][857]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.18.27:055][857]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.12.25-11.18.27:055][857]CompilerResultsLog:   [1/3] UE4Editor-TheMatrix-6372.lib
+[2019.12.25-11.18.27:055][857]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6372.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6372.exp.
+[2019.12.25-11.18.27:056][857]CompilerResultsLog:   [2/3] UE4Editor-TheMatrix-6372.dll
+[2019.12.25-11.18.27:056][857]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6372.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6372.suppressed.exp.
+[2019.12.25-11.18.27:057][857]CompilerResultsLog:   [3/3] TheMatrixEditor.target
+[2019.12.25-11.18.27:057][857]CompilerResultsLog: Total time in Parallel executor: 1,32 seconds
+[2019.12.25-11.18.27:057][857]CompilerResultsLog: Total execution time: 3,56 seconds
+[2019.12.25-11.18.27:057][857]LogMainFrame: MainFrame: Module compiling took 3.662 seconds
+[2019.12.25-11.18.27:080][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.25-11.18.27:097][857]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.18.27:097][857]Display: HotReload took  3.7s.
+[2019.12.25-11.18.29:456][131]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.18.29:466][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.18.29:466][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.18.29:467][131]PIE: New page: PIE session: NewMap (25. 12. 2019 13:18:29)
+[2019.12.25-11.18.29:467][131]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.12.25-11.18.29:471][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003638s)
+[2019.12.25-11.18.29:472][131]LogAIModule: Creating AISystem for world NewMap
+[2019.12.25-11.18.29:472][131]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2019.12.25-11.18.29:472][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.005274s)
+[2019.12.25-11.18.29:494][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.25-11.18.29:506][131]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.18.29:520][131]LogInit: FAudioDevice initialized.
+[2019.12.25-11.18.29:552][131]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.18.29:554][131]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.12.25-12.18.29
+[2019.12.25-11.18.29:554][131]LogWorld: Bringing up level for play took: 0.000912
+[2019.12.25-11.18.29:567][131]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0,019
+[2019.12.25-11.18.29:568][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.18.40:641][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.18.40:642][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.18.40:697][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.18.40:698][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.18.40:722][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.18.40:725][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.25-11.18.40:741][131]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.25-11.20.38:383][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.20.39:876][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.20.39:880][802]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" -game -rocket -progress
+[2019.12.25-11.20.40:184][802]Discovering modules, targets and source code for project...
+[2019.12.25-11.20.41:592][802]Binding IntelliSense data...
+[2019.12.25-11.20.42:905][802]Binding IntelliSense data... 100%
+[2019.12.25-11.20.42:905][802]Writing project files...
+[2019.12.25-11.20.43:007][802]Writing project files... 100%
+[2019.12.25-11.20.51:345][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.20.51:465][957]Candidate modules for hot reload:
+[2019.12.25-11.20.51:465][957]  TheMatrix
+[2019.12.25-11.20.51:466][957]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,7043 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.20.51:467][957]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.20.55:144][392]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:20:55
+[2019.12.25-11.20.55:145][392]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.20.55:145][392]CompilerResultsLog: Creating makefile for TheMatrixEditor (no existing makefile)
+[2019.12.25-11.20.55:145][392]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.20.55:145][392]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.20.55:145][392]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.20.55:146][392]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-7043.lib
+[2019.12.25-11.20.55:146][392]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7043.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7043.exp.
+[2019.12.25-11.20.55:146][392]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-7043.dll
+[2019.12.25-11.20.55:146][392]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7043.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-7043.suppressed.exp.
+[2019.12.25-11.20.55:147][392]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.20.55:147][392]CompilerResultsLog: Total time in Parallel executor: 1,64 seconds
+[2019.12.25-11.20.55:147][392]CompilerResultsLog: Total execution time: 3,60 seconds
+[2019.12.25-11.20.55:147][392]LogMainFrame: MainFrame: Module compiling took 3.683 seconds
+[2019.12.25-11.20.55:164][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.12.25-11.20.55:175][392]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.20.55:175][392]Display: HotReload took  3.7s.
+[2019.12.25-11.20.56:293][526]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.20.56:299][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.20.56:299][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.20.56:299][526]PIE: New page: PIE session: NewMap (25. 12. 2019 13:20:56)
+[2019.12.25-11.20.56:299][526]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.12.25-11.20.56:301][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001977s)
+[2019.12.25-11.20.56:302][526]LogAIModule: Creating AISystem for world NewMap
+[2019.12.25-11.20.56:302][526]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2019.12.25-11.20.56:302][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003094s)
+[2019.12.25-11.20.56:321][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.25-11.20.56:330][526]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.20.56:339][526]LogInit: FAudioDevice initialized.
+[2019.12.25-11.20.56:365][526]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.20.56:366][526]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.12.25-12.20.56
+[2019.12.25-11.20.56:366][526]LogWorld: Bringing up level for play took: 0.000673
+[2019.12.25-11.20.56:379][526]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0,831
+[2019.12.25-11.20.56:380][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.20.59:672][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.20.59:673][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.20.59:702][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.20.59:702][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.20.59:723][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.20.59:726][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.25-11.20.59:777][925]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.25-11.21.12:962][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.21.12:973][386]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.25-11.23.14:791][614]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.12.25-11.23.17:834][940]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.25-11.23.19:443][131]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.25-11.23.20:189][219]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.25-11.23.29:037][108]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.25-11.23.29:496][161]Cmd: TRANSACTION UNDO
+[2019.12.25-11.23.29:496][161]LogEditorTransaction: Undo Rotate Actors
+[2019.12.25-11.23.31:086][347]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.25-11.23.31:630][411]Cmd: TRANSACTION UNDO
+[2019.12.25-11.23.31:630][411]LogEditorTransaction: Undo Rotate Actors
+[2019.12.25-11.23.33:744][664]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.12.25-11.23.34:089][704]Cmd: TRANSACTION UNDO
+[2019.12.25-11.23.34:089][704]LogEditorTransaction: Undo Rotate Actors
+[2019.12.25-11.25.22:163][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.25.22:249][368]Candidate modules for hot reload:
+[2019.12.25-11.25.22:249][368]  TheMatrix
+[2019.12.25-11.25.22:249][368]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheMatrix,6115 Win64 Development -TargetType=Editor -Project="C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject" "C:/Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/TheMatrix.uproject"  -IgnoreJunk]
+[2019.12.25-11.25.22:251][368]Warning: Starting HotReload took  0.0s.
+[2019.12.25-11.25.25:759][467]CompilerResultsLog: New page: Compilation - 25. 12. 2019 13:25:25
+[2019.12.25-11.25.25:759][467]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix).
+[2019.12.25-11.25.25:759][467]CompilerResultsLog: Creating makefile for TheMatrixEditor (ini files are newer than makefile)
+[2019.12.25-11.25.25:760][467]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.25-11.25.25:760][467]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.25-11.25.25:760][467]CompilerResultsLog:   [1/4] WorldPosition.cpp
+[2019.12.25-11.25.25:760][467]CompilerResultsLog:   [2/4] UE4Editor-TheMatrix-6115.lib
+[2019.12.25-11.25.25:760][467]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6115.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6115.exp.
+[2019.12.25-11.25.25:761][467]CompilerResultsLog:   [3/4] UE4Editor-TheMatrix-6115.dll
+[2019.12.25-11.25.25:761][467]CompilerResultsLog:      Vytv??? se knihovna C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6115.suppressed.lib a objekt C:\Users\Tadaaaa\Desktop\Unreal Projects\TheMatrix\TheMatrix\Intermediate\Build\Win64\UE4Editor\Development\TheMatrix\UE4Editor-TheMatrix-6115.suppressed.exp.
+[2019.12.25-11.25.25:761][467]CompilerResultsLog:   [4/4] TheMatrixEditor.target
+[2019.12.25-11.25.25:761][467]CompilerResultsLog: Total time in Parallel executor: 1,49 seconds
+[2019.12.25-11.25.25:761][467]CompilerResultsLog: Total execution time: 3,40 seconds
+[2019.12.25-11.25.25:761][467]LogMainFrame: MainFrame: Module compiling took 3.515 seconds
+[2019.12.25-11.25.25:782][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.25-11.25.25:793][467]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2734 classes and 663 folders.
+[2019.12.25-11.25.25:794][467]Display: HotReload took  3.5s.
+[2019.12.25-11.25.27:813][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.25.31:450][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.25.31:558][760]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.25.31:568][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.31:569][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.25.31:569][760]PIE: New page: PIE session: NewMap (25. 12. 2019 13:25:31)
+[2019.12.25-11.25.31:569][760]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.12.25-11.25.31:571][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002106s)
+[2019.12.25-11.25.31:572][760]LogAIModule: Creating AISystem for world NewMap
+[2019.12.25-11.25.31:572][760]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.12.25-11.25.31:572][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003324s)
+[2019.12.25-11.25.31:591][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.12.25-11.25.31:599][760]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.25.31:608][760]LogInit: FAudioDevice initialized.
+[2019.12.25-11.25.31:638][760]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.25.31:639][760]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.12.25-12.25.31
+[2019.12.25-11.25.31:640][760]LogWorld: Bringing up level for play took: 0.000868
+[2019.12.25-11.25.31:653][760]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0,104
+[2019.12.25-11.25.31:653][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.39:930][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.39:931][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.25.39:961][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.25.39:962][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.39:984][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.25.39:987][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.25-11.25.40:037][757]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.25-11.25.44:139][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.25-11.25.44:143][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.44:143][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.25-11.25.44:143][249]PIE: New page: PIE session: NewMap (25. 12. 2019 13:25:44)
+[2019.12.25-11.25.44:143][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2019.12.25-11.25.44:145][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001970s)
+[2019.12.25-11.25.44:145][249]LogAIModule: Creating AISystem for world NewMap
+[2019.12.25-11.25.44:146][249]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.12.25-11.25.44:146][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003167s)
+[2019.12.25-11.25.44:164][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.25-11.25.44:172][249]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.25-11.25.44:181][249]LogInit: FAudioDevice initialized.
+[2019.12.25-11.25.44:208][249]LogLoad: Game class is 'GameModeBase'
+[2019.12.25-11.25.44:208][249]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.12.25-12.25.44
+[2019.12.25-11.25.44:208][249]LogWorld: Bringing up level for play took: 0.000552
+[2019.12.25-11.25.44:221][249]PIE: Play in editor start time for /Game/UEDPIE_0_NewMap 0,673
+[2019.12.25-11.25.44:221][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.58:012][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.58:013][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.25.58:043][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.25-11.25.58:044][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/NewMap.NewMap_C' with ClassGeneratedBy '/Game/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.12.25-11.25.58:064][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.25-11.25.58:067][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.12.25-11.25.58:118][908]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.25-11.25.58:654][972]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.25-11.25.58:679][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.25.59:553][ 75]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.12.25-11.26.00:008][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.25-11.26.00:013][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.25-11.26.00:034][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.12.25-11.26.00:380][127]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/NewMap1FC6D3394ABA61371133FABA49F3F358.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap.umap'
+[2019.12.25-11.26.00:397][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap_BuiltData.uasset" SILENT=true
+[2019.12.25-11.26.00:418][127]LogSavePackage: Moving '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Saved/NewMap_BuiltData065977D94CAD8D53029CA9B708331C37.tmp' to '../../../../../../Users/Tadaaaa/Desktop/Unreal Projects/TheMatrix/TheMatrix/Content/NewMap_BuiltData.uasset'
+[2019.12.25-11.26.01:356][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.25-11.26.01:474][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.12.25-11.26.01:516][236]LogSlate: Window 'TheMatrix - Unreal Editor' being destroyed
+[2019.12.25-11.26.01:691][237]Cmd: QUIT_EDITOR
+[2019.12.25-11.26.01:909][237]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.25-11.26.01:922][237]LogExit: Preparing to exit.
+[2019.12.25-11.26.02:874][237]LogExit: Editor shut down
+[2019.12.25-11.26.02:875][237]LogExit: Transaction tracking system shut down
+[2019.12.25-11.26.03:110][237]LogExit: Object subsystem successfully closed.
+[2019.12.25-11.26.03:135][237]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.25-11.26.03:140][237]LogD3D11RHI: Shutdown
+[2019.12.25-11.26.03:140][237]LogD3D11RHI: CleanupD3DDevice
+[2019.12.25-11.26.03:140][237]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.25-11.26.03:140][237]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.25-11.26.03:140][237]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.25-11.26.03:140][237]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.25-11.26.03:140][237]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.25-11.26.03:140][237]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.25-11.26.03:196][237]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module TheMatrix (646)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.12.25-11.26.03:219][237]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.12.25-11.26.03:220][237]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.12.25-11.26.03:221][237]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.12.25-11.26.04:237][237]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.12.25-11.26.04:237][237]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.12.25-11.26.04:237][237]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.12.25-11.26.04:237][237]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.12.25-11.26.04:238][237]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.12.25-11.26.04:292][237]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.12.25-11.26.04:293][237]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.12.25-11.26.04:293][237]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.12.25-11.26.04:294][237]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.12.25-11.26.04:294][237]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.12.25-11.26.04:294][237]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.12.25-11.26.04:294][237]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.12.25-11.26.04:294][237]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.12.25-11.26.04:294][237]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.12.25-11.26.04:295][237]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.12.25-11.26.04:296][237]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.12.25-11.26.04:299][237]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.12.25-11.26.04:523][237]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.12.25-11.26.04:524][237]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.12.25-11.26.04:624][237]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.12.25-11.26.04:725][237]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.12.25-11.26.04:725][237]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.12.25-11.26.04:726][237]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.12.25-11.26.04:726][237]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.12.25-11.26.04:726][237]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.12.25-11.26.04:727][237]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.12.25-11.26.04:727][237]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.12.25-11.26.04:728][237]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.12.25-11.26.04:729][237]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.12.25-11.26.04:731][237]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.12.25-11.26.04:761][237]LogDerivedDataCache: Shutdown
+[2019.12.25-11.26.04:761][237]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.12.25-11.26.04:761][237]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.12.25-11.26.04:761][237]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.12.25-11.26.04:761][237]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.12.25-11.26.04:761][237]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.12.25-11.26.04:761][237]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.12.25-11.26.04:762][237]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.12.25-11.26.04:763][237]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.12.25-11.26.04:763][237]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.12.25-11.26.04:763][237]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.12.25-11.26.04:763][237]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.12.25-11.26.04:769][237]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.12.25-11.26.04:769][237]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.12.25-11.26.04:770][237]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.12.25-11.26.04:770][237]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.12.25-11.26.04:782][237]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.12.25-11.26.04:782][237]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.25-11.26.04:782][237]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4A930A9-483E-8369-FE61-2399611961EB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=f472004f40fac88184d84a92366b546b%7C8dcaf3935bb042848f2d0b9c43f0b476%7Cc1cad8ca-24b4-4669-8e88-225e95b0389b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.25-11.26.04:805][237]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.12.25-11.26.04:806][237]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.12.25-11.26.04:807][237]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.12.25-11.26.04:814][237]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.12.25-11.26.04:814][237]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.25-11.26.04:815][237]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.25-11.26.04:824][237]LogExit: Exiting.
+[2019.12.25-11.26.04:843][237]Log file closed, 12/25/19 12:26:04
