@@ -1,6 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Engine/TriggerVolume.h"
+#include "Engine/World.h"
+#include "GameFramework/PlayerController.h"
 #include "OpenDoor.h"
 #include "GameFramework/Actor.h"
 
@@ -19,9 +21,11 @@ void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	InitialYaw = GetOwner()->GetActorRotation().Yaw;
-	CurrentYaw = InitialYaw;
-	TargetYaw += InitialYaw;
+	ClosedAngle = GetOwner()->GetActorRotation().Yaw;
+	CurrentYaw = ClosedAngle;
+	OpenAngle += ClosedAngle;
+
+	ActorToOpen = GetWorld()->GetFirstPlayerController()->GetPawn();
 }
 
 // Called every frame
@@ -29,18 +33,31 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	if (!ensure(ActorToOpen != nullptr))
+	if (PressurePlate && PressurePlate->IsOverlappingActor(ActorToOpen))
 	{
-		if (PressurePlate->IsOverlappingActor(ActorToOpen))
+		OpenDoor(DeltaTime);
+		DoorLastOpened = GetWorld()->GetTimeSeconds();
+	}
+	else if (PressurePlate && !PressurePlate->IsOverlappingActor(ActorToOpen))
+	{
+		if (GetWorld()->GetTimeSeconds() - DoorLastOpened > DoorCloseDelay)
 		{
-			OpenDoor(DeltaTime);
+			CloseDoor(DeltaTime);
 		}
 	}
 }
 
 void UOpenDoor::OpenDoor(float DeltaTime)
 {
-	CurrentYaw = FMath::Lerp(CurrentYaw, TargetYaw, 0.05f * DeltaTime);
+	CurrentYaw = FMath::Lerp(CurrentYaw, OpenAngle, DoorOpenSpeed * DeltaTime);
+	FRotator DoorRotation = GetOwner()->GetActorRotation();
+	DoorRotation.Yaw = CurrentYaw;
+	GetOwner()->SetActorRotation(DoorRotation);
+}
+
+void UOpenDoor::CloseDoor(float DeltaTime)
+{
+	CurrentYaw = FMath::Lerp(CurrentYaw, ClosedAngle, DoorOpenSpeed * DeltaTime);
 	FRotator DoorRotation = GetOwner()->GetActorRotation();
 	DoorRotation.Yaw = CurrentYaw;
 	GetOwner()->SetActorRotation(DoorRotation);
